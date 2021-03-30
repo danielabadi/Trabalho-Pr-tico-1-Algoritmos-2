@@ -1,1 +1,2 @@
-# Trabalho-Pr-tico-1-Algoritmos-2
+# Trabalho Prático 1 - Algoritmos II
+Primeiro trabalho prático da matéria Algoritmos II, UFMG 2020/2. Para mais informações, leia o arquivo de especificação.
